@@ -1,6 +1,7 @@
 ; KILLER CHESS
 ; BY GREG KNAUSS   
 ; (c)1987, ANTIC PUBLISHING   
+; De-ATASCII-ifed by Bill Lange
 
 CARD PM,CH
 BYTE I,J,K,STK,PLR,LOC,CAP,OK
@@ -97,14 +98,55 @@ PutD(6,4)
 FOR I=2 TO 9
 DO
    POSITION(5,I)
-   PRINTD(6,".        .")
+   ;PRINTD(6,".        .")
+   PutD(6,5)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,32)
+   PutD(6,6)   
 OD
 
-POSITION(5,10) PRINTD(6,"..........")
-POSITION(6,2) PRINTD(6,"+,-./-,+")
-POSITION(6,3) PRINTD(6,"********")
-POSITION(7,5) PRINTD(6,"......")
-POSITION(7,6) PRINTD(6,".....")
+POSITION(5,10)
+;PRINTD(6,"..........")
+PutD(6,7)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,8)
+PutD(6,9)  
+
+POSITION(6,2)
+PRINTD(6,"+,-./-,+")
+
+POSITION(6,3)
+PRINTD(6,"********")
+
+POSITION(7,5)
+;PRINTD(6,"......")
+PutD(6,16+128)
+PutD(6,18+128)
+PutD(6,20+128)
+PutD(6,20+128)
+PutD(6,21+128)
+PutD(6,22+128)
+
+POSITION(7,6)
+;PRINTD(6,".....")
+PutD(6,17+128)
+PutD(6,19+128)
+PutD(6,21+128)
+PutD(6,23+128)
+PutD(6,23+128)
+
 POSITION(6,8) PRINTD(6,"********")
 POSITION(6,9) PRINTD(6,"+,-./-,+")
 POSITION(7,11) PRINTD(6,"......")
