@@ -1,4 +1,6 @@
 <h1>Killer Chess</h1>
+<strong>By Greg Knauss</strong>
+<em>From Antic Magazine, February 1988</em>
 <h2>Two-player ACTION! shootout</h2>
 Killer Chess brings a new frenzy of aggression to the classic game, as you mop up the chessboard without waiting for your opponent to make moves. This type-in program is written in ACTION! and requires the ACTION! language cartridge from Optimized Systems Software, as well as an 8-bit Atari computer with at least 32K memory and a disk drive.
 
