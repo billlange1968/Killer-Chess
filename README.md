@@ -2,15 +2,15 @@
 <strong>By Greg Knauss</strong></br>
 <em>From Antic Magazine, February 1988</em>
 <h2>Two-player ACTION! shootout</h2>
-Killer Chess brings a new frenzy of aggression to the classic game, as you mop up the chessboard without waiting for your opponent to make moves. This type-in program is written in ACTION! and requires the ACTION! language cartridge from Optimized Systems Software, as well as an 8-bit Atari computer with at least 32K memory and a disk drive.
+<p>Killer Chess brings a new frenzy of aggression to the classic game, as you mop up the chessboard without waiting for your opponent to make moves. This type-in program is written in ACTION! and requires the ACTION! language cartridge from Optimized Systems Software, as well as an 8-bit Atari computer with at least 32K memory and a disk drive.</p>
 
-Unless you're a real fanatic or a tournament contender, I'll bet that you don't play much chess anymore. Let's face it, most "regular folks" find chess boring!
+<p>Unless you're a real fanatic or a tournament contender, I'll bet that you don't play much chess anymore. Let's face it, most "regular folks" find chess boring!</p>
 
-But now imagine a revitalized, fast-ACTION! chess-where the players don't take turns.
+<p>But now imagine a revitalized, fast-ACTION! chess-where the players don't take turns.</p>
 
-That's right. . . no turns. Killer Chess players make legal chess moves as fast as they can, deciding on instant strategies that they would have spent dull minutes pondering in a traditional game. Stodgy old chess becomes a fast-gun shootout.
+<p>That's right. . . no turns. Killer Chess players make legal chess moves as fast as they can, deciding on instant strategies that they would have spent dull minutes pondering in a traditional game. Stodgy old chess becomes a fast-gun shootout.</p>
 
-Welcome to Killer Chess, written in ACTION! the fast, powerful programming language from Optimized Systems Software. You and your human opponent will use an Atari 8-bit computer and a pair of joysticks to battle it out in a radical new version of a traditional game
+<p>Welcome to Killer Chess, written in ACTION! the fast, powerful programming language from Optimized Systems Software. You and your human opponent will use an Atari 8-bit computer and a pair of joysticks to battle it out in a radical new version of a traditional game.</p>
 
 <h2>GETTING STARTED</h2>
 TYPING IT IN: Insert the ACTION! cartridge into your 8-bit Atari and type in Listing 1, KILLER.ACT Type carefully; because there isn't a TYPO II for ACTION! After you have a copy of the complete program safely saved, go to the monitor by pressing [CONTROL] [SHIFT] [M] and compile the program by typing [C] [RETURN]. When the cursor starts blinking again, type [R] [RETURN] and the title page should appear.
