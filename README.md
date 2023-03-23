@@ -38,6 +38,7 @@
 <p>If the Pawn's new position is on top of an opponent's piece, I allowed for a Delta Y movement of either 1 or -1. Combined with the Delta X, that would result in diagonal movement. Simple, really. It just took a bit of planning to work out the values for the special conditions of each chess piece.</p>
 
 <h1>Listing 1: KILLER.ACT</h1>
+
 ![kchess act](https://user-images.githubusercontent.com/3913623/227076395-c7b36769-d04c-4360-8196-6e3fd0f88642.png)
 
 <h1>References</h1>
