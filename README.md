@@ -1,6 +1,9 @@
 <h1>Killer Chess</h1>
 <strong>By Greg Knauss</strong></br>
 <em>From Antic Magazine, February 1988</em>
+
+![killer_chess_title](https://user-images.githubusercontent.com/3913623/227552824-a8fccbee-816b-454c-a7f7-5ae609c50e09.png)
+
 <h2>Two-player ACTION! shootout</h2>
 <p>Killer Chess brings a new frenzy of aggression to the classic game, as you mop up the chessboard without waiting for your opponent to make moves. This type-in program is written in <a href="http://www.atarimania.com/utility-atari-400-800-xl-xe-action_s10963.html">ACTION!</a> and requires the ACTION! language cartridge from Optimized Systems Software, as well as an 8-bit Atari computer with at least 32K memory and a disk drive.</p>
 
@@ -18,6 +21,8 @@
 <p>MONTHLY DISK USERS: You can play Killer Chess without owning the ACTION! cartridge. Just insert your Antic Monthly Disk into your disk drive, remove all cartridges from your Atari (XL/XE owners should press the [OPTION] key) and turn on your Atari. When the DOS menu appears, just type [L][RETURN], then type KILLER.EXE [RETURN].</p>
 
 <p>When the title screen is seen, press [START] to begin a game. When the game begins, both players will be able to simultaneously move their respective cursors around the board. With joystick 0, player 1 controls the white cursor and white pieces. With joystick 1, player 2 controls the gray cursor and gray pieces.</p>
+
+![killer_chess_game](https://user-images.githubusercontent.com/3913623/227552934-563492d5-2548-49da-a6db-f3fd6bebabba.png)
 
 <h2>PLAYING KILLER CHESS</h2>
 <p>Simply place the cursor over any piece you want to move and press the joystick button. Now move the cursor over a square that would be a legal move for that piece and press the button again. If the move is illegal, the computer will tell you so -with a rather unpleasant sound- and let you try again. Otherwise the piece will be placed at the new square. If you accidentally pick up a piece and don't want to move it, just replace the cursor over the piece you selected and press the button again. The piece will be dropped.</p>
