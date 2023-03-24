@@ -2,6 +2,7 @@
 <strong>By Greg Knauss</strong></br>
 <em>From Antic Magazine, February 1988</em>
 </br>
+
 ![killer_chess_title](https://user-images.githubusercontent.com/3913623/227552824-a8fccbee-816b-454c-a7f7-5ae609c50e09.png)
 
 <h2>Two-player ACTION! shootout</h2>
