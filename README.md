@@ -25,10 +25,15 @@
 <p>MONTHLY DISK USERS: You can play Killer Chess without owning the ACTION! cartridge. Just insert your Antic Monthly Disk into your disk drive, remove all cartridges from your Atari (XL/XE owners should press the [OPTION] key) and turn on your Atari. When the DOS menu appears, just type [L][RETURN], then type KILLER.EXE [RETURN].</p>
 
 <p>When the title screen is seen, press [START] to begin a game. When the game begins, both players will be able to simultaneously move their respective cursors around the board. With joystick 0, player 1 controls the white cursor and white pieces. With joystick 1, player 2 controls the gray cursor and gray pieces.</p>
+  
+<h2>PLAYING KILLER CHESS</h2>
+
+<p>
 
 ![killer_chess_game](https://user-images.githubusercontent.com/3913623/227552934-563492d5-2548-49da-a6db-f3fd6bebabba.png)
 
-<h2>PLAYING KILLER CHESS</h2>
+</p> 
+
 <p>Simply place the cursor over any piece you want to move and press the joystick button. Now move the cursor over a square that would be a legal move for that piece and press the button again. If the move is illegal, the computer will tell you so -with a rather unpleasant sound- and let you try again. Otherwise the piece will be placed at the new square. If you accidentally pick up a piece and don't want to move it, just replace the cursor over the piece you selected and press the button again. The piece will be dropped.</p>
 
 <p>To capture an enemy, simply make a legal move on top of it. The offending piece will be removed from play. You can capture a piece your opponent is "holding". The piece isn't actually moved until it is set down again.</p>
@@ -49,8 +54,12 @@
 <h2>Listing 1: KILLER.ACT</h2>
 <em>killer.act listing in repository has ATASCII characters (control characters, inverse characters, etc.) replaced with ATASCII character codes so they are displayable.</em></br>
 
+<p>
+
 ![kchess act](https://user-images.githubusercontent.com/3913623/227076395-c7b36769-d04c-4360-8196-6e3fd0f88642.png)
 
+</p>
+  
 <h2>References</h2>
 
 <a href="https://archive.org/details/1988-02-anticmagazine/Antic_Vol_6-10_1988-02_Scanning_Images/page/n10/mode/1up?view=theater">Killer Chess Article in Antic Magazine</a></br>
