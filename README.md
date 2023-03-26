@@ -7,6 +7,9 @@
 ![killer_chess_title](https://user-images.githubusercontent.com/3913623/227552824-a8fccbee-816b-454c-a7f7-5ae609c50e09.png)
 
 </p>  
+
+<h2>Altirra Notes</h2>
+You can copy the source code from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
   
 <h2>Two-player ACTION! shootout</h2>
 <p>Killer Chess brings a new frenzy of aggression to the classic game, as you mop up the chessboard without waiting for your opponent to make moves. This type-in program is written in <a href="http://www.atarimania.com/utility-atari-400-800-xl-xe-action_s10963.html">ACTION!</a> and requires the ACTION! language cartridge from Optimized Systems Software, as well as an 8-bit Atari computer with at least 32K memory and a disk drive.</p>
