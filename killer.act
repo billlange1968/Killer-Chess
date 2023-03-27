@@ -1,7 +1,6 @@
 ; KILLER CHESS
 ; BY GREG KNAUSS   
 ; (c)1987, ANTIC PUBLISHING   
-; Souce code de-ATASCII-ifed by Bill Lange
 
 CARD PM,CH
 BYTE I,J,K,STK,PLR,LOC,CAP,OK
